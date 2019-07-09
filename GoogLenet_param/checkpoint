@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Desktop\\Test-master\\param\\GoogLenet\\model_save.model"
+all_model_checkpoint_paths: "D:\\Desktop\\Test-master\\param\\GoogLenet\\model_save.model"
